@@ -21,7 +21,7 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 ### 🛠️ My Superpowers (a.k.a. Tech Stack)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,python,java,mongodb,canva,git,aws&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,python,java,mongodb,git,aws&perline=8" />
 </div>
 
 ---
