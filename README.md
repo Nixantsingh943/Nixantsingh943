@@ -18,10 +18,10 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 
 ---
 
-### 🛠️ My Superpowers (a.k.a. Tech Stack)
+### 🛠️ My Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,python,java,mongodb,git,aws&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,python,java,git,aws&perline=8" />
 </div>
 
 ---
@@ -71,8 +71,6 @@ Thanks for stopping by! If you made it this far, you deserve a 🍪.
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohzdIuqJoo8QdKlnW/giphy.gif" width="300" />
-</p>
+
 
 
