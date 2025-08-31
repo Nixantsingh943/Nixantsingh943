@@ -21,12 +21,12 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 ### 🛠️ My Superpowers (a.k.a. Tech Stack)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,python,java,mongodb,canva,r,git,aws&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,python,java,mongodb,canva,git,aws&perline=8" />
 </div>
 
 ---
 
-### 🧙 GitHub Stats (100% Real. Not Clickbait.)
+### Nishant's GitHub Stats
 
 | 🔥 Streakin’ | 📊 Stats | 🧠 Languages |
 |--------------|-----------|-------------|
@@ -54,9 +54,9 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 
 ### 🛸 Some of My (Questionably Brilliant) Projects
 
-- 🐸 [FrogChat](https://github.com/Nixantsingh943/passpy): Chat app for frogs. Yes, ribbit included.
-- 🧠 [MindReaderJS](https://github.com/Nixantsingh943/simple_Currency-convertor): Predicts your thoughts… sometimes… maybe?
-- 🛸 [404-Landing-Page](https://github.com/yourusername/404-landing): A landing page that leads nowhere, beautifully.
+- 🐸 [Password-Manager](https://github.com/Nixantsingh943/passpy): Used to store the password.
+- 🧠 [Currency-convertor](https://github.com/Nixantsingh943/simple_Currency-convertor): Used to convert the USD in different currencies.
+- 🛸 [Netflix-clone](https://github.com/Nixantsingh943/netflixclone): A Clone of netflix homepage.
 
 ---
 
