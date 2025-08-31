@@ -54,9 +54,9 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 
 ### 🛸 Some of My (Questionably Brilliant) Projects
 
-- 🐸 [Password-Manager](https://github.com/Nixantsingh943/passpy): Used to store the password.
+- 🐸 [Password-Manager](https://github.com/Nixantsingh943/passPySafe): Used to store the password.
 - 🧠 [Currency-convertor](https://github.com/Nixantsingh943/simple_Currency-convertor): Used to convert the USD in different currencies.
-- 🛸 [Netflix-clone](https://github.com/Nixantsingh943/netflixclone): A Clone of netflix homepage.
+- 🛸 [Netflix-clone](https://github.com/Nixantsingh943/Netflix_clone): A Clone of netflix homepage.
 
 ---
 
