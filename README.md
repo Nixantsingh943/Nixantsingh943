@@ -9,13 +9,14 @@
 
 ### ⚡ A Little About Me ("The Origin Story")
 > 🧬 Once bitten by a radioactive semicolon, I gained superpowers in code.  
-Now I build **awesome stuff**, break things (on purpose), and live on the edge of deployment! 
+Now I build **awesome stuff**, break things (on purpose), and live on the edge of deployment!
+- I'm a passionate developer with a love for building things that make life easier. I'm always learning something new!
 
 - 🌱 Currently growing: `{ skills: ["AI", "WebDev", "C++", "Web3"] }`
 - 🔥 Currently building: A project that will either **change the world** or crash my computer 💥
+- 📫 How to reach me: [Email-(niahuthakurnishant943@gmail.com)]
 - 🤔 Fun fact: I am a person who forgets things very quickly.
 - 📄 [View My Resume](https://yourdomain.com/your-resume.pdf)
-
 
 ---
 
@@ -34,14 +35,11 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 | ![GitHub Streak](https://streak-stats.demolab.com?user=Nixantsingh943&theme=tokyonight&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nixantsingh943&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixantsingh943&layout=compact&theme=radical) |
 
 
-
 ### Connect with me..
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Nixantsingh943)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishant-singh-586315325/)
-
-
 
 ---
 
