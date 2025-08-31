@@ -22,7 +22,7 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 ### 🛠️ My Skills
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,python,java,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,python,java,git,sqlite,mongodb&perline=8" />
 </div>
 
 ---
@@ -37,7 +37,7 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 
 ### Connect with me..
 
-[![Follow Me](https://img.shields.io/github/Nixantsingh943?style=social)](https://github.com/Nixantsingh943)
+[![Follow Me](https://img.shields.io/github/followers/Nixantsingh943?style=social)](https://github.com/Nixantsingh943)
 [![LinkedIn](https://img.shields.io/badge/-linkedin%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nishant-singh-586315325)
 
 
