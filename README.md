@@ -37,8 +37,9 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 
 ### Connect with me..
 
-[![Follow Me](https://img.shields.io/github/followers/Nixantsingh943?style=social)](https://github.com/Nixantsingh943)
-[![LinkedIn](https://img.shields.io/badge/-linkedin%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nishant-singh-586315325)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Nixantsingh943)
+
+[![LinkedIn](https://img.shields.io/badge/-linkedin%20style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nishant-singh-586315325)
 
 
 
