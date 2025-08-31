@@ -13,7 +13,7 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 
 - 🌱 Currently growing: `{ skills: ["AI", "WebDev", "C++", "Web3"] }`
 - 🔥 Currently building: A project that will either **change the world** or crash my computer 💥
-- 🤔 Fun fact: I still Google "how to center a div" every. single. time.
+- 🤔 Fun fact: I am a person who forgets things very quickly.
 - 📬 Reach me via pigeon or [social links below](#📫-catch-me-on-the-interwebs)
 
 ---
