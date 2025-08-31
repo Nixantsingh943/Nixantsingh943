@@ -14,13 +14,14 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 - 🌱 Currently growing: `{ skills: ["AI", "WebDev", "C++", "Web3"] }`
 - 🔥 Currently building: A project that will either **change the world** or crash my computer 💥
 - 🤔 Fun fact: I am a person who forgets things very quickly.
-- 📬 Reach me via pigeon or [social links below](#📫-catch-me-on-the-interwebs)
+- 📄 [View My Resume](https://yourdomain.com/your-resume.pdf)
+
 
 ---
 
 ### 🛠️ My Skills
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,python,java,git,aws&perline=8" />
 </div>
 
