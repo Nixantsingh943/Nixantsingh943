@@ -1,17 +1,17 @@
-## Hi there 👋
+## Hi there..Nice to see you 👋
 
-<h1 align="center">Heyyooo! 👋 I'm [Your Name] 🎉</h1>
+<h1 align="center"> 👋I'm Nishant Singh 🎉</h1>
 <p align="center">
-  🚀 Developer • 🧠 Mad Coder • ☕ Caffeine Addict • 🕹️ Debugging Boss • 🌮 Taco Enthusiast
+  🚀 Developer • 🌮 Taco Enthusiast
 </p>
 
 ---
 
-### ⚡ A Little About Me (a.k.a. "The Origin Story")
+### ⚡ A Little About Me ("The Origin Story")
 > 🧬 Once bitten by a radioactive semicolon, I gained superpowers in code.  
-Now I build **awesome stuff**, break things (on purpose), and live on the edge... of deployment! 🚨
+Now I build **awesome stuff**, break things (on purpose), and live on the edge of deployment! 
 
-- 🌱 Currently growing: `{ skills: ["AI", "Web3", "Typescript", "World Domination"] }`
+- 🌱 Currently growing: `{ skills: ["AI", "WebDev", "C++", "Web3"] }`
 - 🔥 Currently building: A project that will either **change the world** or crash my computer 💥
 - 🤔 Fun fact: I still Google "how to center a div" every. single. time.
 - 📬 Reach me via pigeon or [social links below](#📫-catch-me-on-the-interwebs)
