@@ -32,27 +32,19 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 |--------------|-----------|-------------|
 | ![GitHub Streak](https://streak-stats.demolab.com?user=Nixantsingh943&theme=tokyonight&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nixantsingh943&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixantsingh943&layout=compact&theme=radical) |
 
-> “If debugging is the process of removing software bugs, then programming must be the process of putting them in.” – *Me, daily*
 
----
 
-### 🎮 Currently Playing With:
-- 🧪 Side Projects: Building an app to help people find their missing socks 🧦
-- 🤖 AI Experiments: Teaching my toaster how to code
-- 🧘 Life Balance: 3% coding, 97% Stack Overflow
+### Connect with me..
 
----
-
-### 🧨 Random Buttons You Can Click
-
-[![Follow Me](https://img.shields.io/github/followers/Nixantsingh943?label=Follow%20Me%20🤩&style=social)](https://github.com/Nixantsingh943)
-[![YouTube](https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
+[![Follow Me](https://img.shields.io/github/followers/Nixantsingh943?label=Follow%20Me%20&style=social)](https://github.com/Nixantsingh943)
 [![Portfolio](https://img.shields.io/badge/-My%20Website-black?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
-[![LinkedIn](https://img.shields.io/badge/-Hire%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-Hire%20Me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nishant-singh-586315325)
+
+
 
 ---
 
-### 🛸 Some of My (Questionably Brilliant) Projects
+###  My Projects
 
 - 🐸 [Password-Manager](https://github.com/Nixantsingh943/passPySafe): Used to store the password.
 - 🧠 [Currency-convertor](https://github.com/Nixantsingh943/simple_Currency-convertor): Used to convert the USD in different currencies.
@@ -67,7 +59,7 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 > And commit like you know what you’re doing.”  
 > – *Unknown dev probably running on no sleep*
 
-Thanks for stopping by! If you made it this far, you deserve a 🍪.
+Thanks for stopping by!
 
 ---
 
