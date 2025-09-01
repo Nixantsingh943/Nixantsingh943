@@ -33,6 +33,9 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 | 🔥 Streakin’ | 📊 Stats | 🧠 Languages |
 |--------------|-----------|-------------|
 | ![GitHub Streak](https://streak-stats.demolab.com?user=Nixantsingh943&theme=tokyonight&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nixantsingh943&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixantsingh943&layout=compact&theme=radical) |
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nixantsingh943&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixantsingh943&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Connect with me..
@@ -50,11 +53,6 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 - 🎬 [Netflix-clone](https://github.com/Nixantsingh943/Netflix_clone): A Clone of netflix homepage.
 
 ---
-
-### Github Trophies
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nixantsingh943&theme=onedark&title=Stars,Followers,Commits&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 ### 🧃 Final Thoughts
