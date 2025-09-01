@@ -51,6 +51,10 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 
 ---
 
+### Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nixantsingh943)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ### 🧃 Final Thoughts
 
 > “Code like nobody’s watching.  
