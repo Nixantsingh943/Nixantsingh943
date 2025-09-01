@@ -52,7 +52,9 @@ Now I build **awesome stuff**, break things (on purpose), and live on the edge o
 ---
 
 ### Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nixantsingh943)](https://github.com/ryo-ma/github-profile-trophy)
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nixantsingh943&theme=onedark&title=Stars,Followers,Commits&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ### 🧃 Final Thoughts
