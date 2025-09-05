@@ -46,7 +46,7 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
 - 🔐 [Password-Manager](https://github.com/Nixantsingh943/passPySafe): Used to store the password.
 - 💱 [Currency-convertor](https://github.com/Nixantsingh943/simple_Currency-convertor): Used to convert the USD in different currencies.
 - 🎬 [Netflix-clone](https://github.com/Nixantsingh943/Netflix_clone): A Clone of netflix homepage.
--    [JavaChat-Application](https://github.com/Nixantsingh943/Java_Chat_manager)
+- 💬 [JavaChat-Application](https://github.com/Nixantsingh943/Java_Chat_manager):A multi-user chat application.
 
 ---
 
