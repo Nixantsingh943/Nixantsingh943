@@ -11,8 +11,7 @@
 I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Development and Data Structures and Algorithms. Proficient in java, Python, JavaScript, and frameworks like ReactJS and Node.js, I'm passionate about leveraging my technical skills to solve complex problems and build innovative solutions.
 - I'm a passionate developer with a love for building things that make life easier. I'm always learning something new!
 
--  Currently growing: `{ skills: ["AI", "WebDev", "C++", "Web3"] }`
-- Currently building: A project that will either **change the world** or crash my computer 💥
+-  Currently growing: `{ skills: ["WebDev", "Web3"] }`
 - How to reach me: [Email-(niahuthakurnishant943@gmail.com)]
 - fact: I am a person who forgets things very quickly.
 - [View My Resume](https://yourdomain.com/your-resume.pdf)
@@ -47,6 +46,7 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
 - 🔐 [Password-Manager](https://github.com/Nixantsingh943/passPySafe): Used to store the password.
 - 💱 [Currency-convertor](https://github.com/Nixantsingh943/simple_Currency-convertor): Used to convert the USD in different currencies.
 - 🎬 [Netflix-clone](https://github.com/Nixantsingh943/Netflix_clone): A Clone of netflix homepage.
+-    [JavaChat-Application](https://github.com/Nixantsingh943/Java_Chat_manager)
 
 ---
 
