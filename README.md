@@ -1,22 +1,21 @@
 ## Hi there..Nice to see you 👋
 
-<h1 align="center"> 👋I'm Nishant Singh 🎉</h1>
+<h1 align="center"> 👋I'm Nishant Singh </h1>
 <p align="center">
-  💻 Full-Stack Developer | 🔐 Security Learner | 🌍 Tech Explorer
+  💻 Full-Stack Developer 
 </p>
 
 ---
 
-### ⚡ A Little About Me ("The Origin Story")
-> 🧬 Once bitten by a radioactive semicolon, I gained superpowers in code.  
-Now I build **awesome stuff**, break things (on purpose), and live on the edge of deployment!
+### ⚡ A Little About Me 
+I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Development and Data Structures and Algorithms. Proficient in java, Python, JavaScript, and frameworks like ReactJS and Node.js, I'm passionate about leveraging my technical skills to solve complex problems and build innovative solutions.
 - I'm a passionate developer with a love for building things that make life easier. I'm always learning something new!
 
-- 🌱 Currently growing: `{ skills: ["AI", "WebDev", "C++", "Web3"] }`
-- 🔥 Currently building: A project that will either **change the world** or crash my computer 💥
-- 📫 How to reach me: [Email-(niahuthakurnishant943@gmail.com)]
-- 🤔 Fun fact: I am a person who forgets things very quickly.
-- 📄 [View My Resume](https://yourdomain.com/your-resume.pdf)
+-  Currently growing: `{ skills: ["AI", "WebDev", "C++", "Web3"] }`
+- Currently building: A project that will either **change the world** or crash my computer 💥
+- How to reach me: [Email-(niahuthakurnishant943@gmail.com)]
+- fact: I am a person who forgets things very quickly.
+- [View My Resume](https://yourdomain.com/your-resume.pdf)
 
 ---
 
