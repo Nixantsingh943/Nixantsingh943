@@ -43,29 +43,24 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
 
 ###  My Projects
 
-
 <p align="center">
   <a href="https://github.com/Nixantsingh943/pyPassSafe">
     <img width="250" alt="pyPassSafe" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=pyPassSafe&theme=tokyonight" />
-    🔐 A secure and lightweight password manager built with Python. It allows users to store, retrieve, and manage their credentials safely with a simple interface.
   </a>
   <a href="https://github.com/Nixantsingh943/Netflix_clone">
     <img width="250" alt="Netflix_clone" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Netflix_clone&theme=tokyonight" />
-    🎬 A front-end Netflix clone created using HTML, CSS, and JavaScript. It mimics the UI of Netflix with responsive design and dynamic styling.
   </a>
   <a href="https://github.com/Nixantsingh943/Java_Chat_manager">
     <img width="250" alt="Java_Chat_manager" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Java_Chat_manager&theme=tokyonight" />
-    💬 A real-time chat application built with Java. It supports multiple users, private messaging, timestamps, and an interactive graphical interface.
   </a>
   <a href="https://github.com/Nixantsingh943/simple_Currency-convertor">
     <img width="250" alt="simple_Currency-convertor" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=simple_Currency-convertor&theme=tokyonight" />
-    💱 A JavaScript-based currency converter that lets users quickly convert between multiple currencies with accurate and up-to-date exchange rates.
   </a>
   <a href="https://github.com/Nixantsingh943/OpenSourceDSC">
-    <img width="250" alt="OpenSourceDSC" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=OpenSourceDSC&theme=tokyonight" /
-    🌍 Open-source contributions made as part of the DSC community. Includes collaborative projects, practice code, and community-driven initiatives.
+    <img width="250" alt="OpenSourceDSC" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=OpenSourceDSC&theme=tokyonight" />
   </a>
 </p>
+
 
 
 ---
