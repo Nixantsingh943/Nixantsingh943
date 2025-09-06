@@ -43,10 +43,23 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
 
 ###  My Projects
 
-- 🔐 [Password-Manager](https://github.com/Nixantsingh943/passPySafe): Used to store the password.
-- 💱 [Currency-convertor](https://github.com/Nixantsingh943/simple_Currency-convertor): Used to convert the USD in different currencies.
-- 🎬 [Netflix-clone](https://github.com/Nixantsingh943/Netflix_clone): A Clone of netflix homepage.
-- 💬 [JavaChat-Application](https://github.com/Nixantsingh943/Java_Chat_manager):A multi-user chat application.
+<p align="left">
+  <a href="https://github.com/Nixantsingh943/pyPassSafe">
+    <img width="220" alt="pyPassSafe" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=pyPassSafe&theme=merko" />
+  </a>
+  <a href="https://github.com/Nixantsingh943/Netflix_clone">
+    <img width="220" alt="Netflix_clone" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Netflix_clone&theme=merko" />
+  </a>
+  <a href="https://github.com/Nixantsingh943/Java_Chat_manager">
+    <img width="220" alt="Java_Chat_manager" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Java_Chat_manager&theme=merko" />
+  </a>
+  <a href="https://github.com/Nixantsingh943/simple_Currency-convertor">
+    <img width="220" alt="simple_Currency-convertor" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=simple_Currency-convertor&theme=merko" />
+  </a>
+  <a href="https://github.com/Nixantsingh943/OpenSourceDSC">
+    <img width="220" alt="OpenSourceDSC" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=OpenSourceDSC&theme=merko" />
+  </a>
+</p>
 
 ---
 
