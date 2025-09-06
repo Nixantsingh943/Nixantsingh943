@@ -43,38 +43,28 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
 
 ###  My Projects
 
-## 🚀 My Projects
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Nixantsingh943/pyPassSafe">
-    <img width="280" alt="pyPassSafe" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=pyPassSafe&theme=tokyonight" />
-  </a>  
-  <br>
-  🔐 **pyPassSafe** – A simple password manager built with Python for securely storing and retrieving passwords.
-
+    <img width="250" alt="pyPassSafe" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=pyPassSafe&theme=tokyonight" /><br>
+    🔐 A secure and lightweight password manager built with Python. It allows users to store, retrieve, and manage their credentials safely with a simple interface.
+  </a>
   <a href="https://github.com/Nixantsingh943/Netflix_clone">
-    <img width="280" alt="Netflix_clone" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Netflix_clone&theme=tokyonight" />
-  </a>  
-  <br>
-  🎬 **Netflix_clone** – A front-end clone of Netflix using HTML, CSS, and JavaScript.
-
+    <img width="250" alt="Netflix_clone" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Netflix_clone&theme=tokyonight" /><br>
+    🎬 A front-end Netflix clone created using HTML, CSS, and JavaScript. It mimics the UI of Netflix with responsive design and dynamic styling.
+  </a>
   <a href="https://github.com/Nixantsingh943/Java_Chat_manager">
-    <img width="280" alt="Java_Chat_manager" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Java_Chat_manager&theme=tokyonight" />
-  </a>  
-  <br>
-  💬 **Java Chat Manager** – A Java-based chat application with real-time messaging.
-
+    <img width="250" alt="Java_Chat_manager" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Java_Chat_manager&theme=tokyonight" /><br>
+    💬 A real-time chat application built with Java. It supports multiple users, private messaging, timestamps, and an interactive graphical interface.
+  </a>
   <a href="https://github.com/Nixantsingh943/simple_Currency-convertor">
-    <img width="280" alt="simple_Currency-convertor" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=simple_Currency-convertor&theme=tokyonight" />
-  </a>  
-  <br>
-  💱 **Currency Converter** – A JavaScript project to quickly convert between different currencies.
-
+    <img width="250" alt="simple_Currency-convertor" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=simple_Currency-convertor&theme=tokyonight" /><br>
+    💱 A JavaScript-based currency converter that lets users quickly convert between multiple currencies with accurate and up-to-date exchange rates.
+  </a>
   <a href="https://github.com/Nixantsingh943/OpenSourceDSC">
-    <img width="280" alt="OpenSourceDSC" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=OpenSourceDSC&theme=tokyonight" />
-  </a>  
-  <br>
-  🌍 **OpenSourceDSC** – Contributions to open-source projects from DSC community.
+    <img width="250" alt="OpenSourceDSC" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=OpenSourceDSC&theme=tokyonight" /><br>
+    🌍 Open-source contributions made as part of the DSC community. Includes collaborative projects, practice code, and community-driven initiatives.
+  </a>
 </p>
 
 
