@@ -43,23 +43,48 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
 
 ###  My Projects
 
+## 🚀 My Projects
+
 <p align="left">
   <a href="https://github.com/Nixantsingh943/pyPassSafe">
-    <img width="220" alt="pyPassSafe" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=pyPassSafe&theme=merko" />
-  </a>
-  <a href="https://github.com/Nixantsingh943/Netflix_clone">
-    <img width="220" alt="Netflix_clone" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Netflix_clone&theme=merko" />
-  </a>
-  <a href="https://github.com/Nixantsingh943/Java_Chat_manager">
-    <img width="220" alt="Java_Chat_manager" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Java_Chat_manager&theme=merko" />
-  </a>
-  <a href="https://github.com/Nixantsingh943/simple_Currency-convertor">
-    <img width="220" alt="simple_Currency-convertor" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=simple_Currency-convertor&theme=merko" />
-  </a>
-  <a href="https://github.com/Nixantsingh943/OpenSourceDSC">
-    <img width="220" alt="OpenSourceDSC" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=OpenSourceDSC&theme=merko" />
-  </a>
+    <img width="280" alt="pyPassSafe" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=pyPassSafe&theme=tokyonight" />
+  </a>  
+  <br>
+  🔐 **pyPassSafe** – A simple password manager built with Python for securely storing and retrieving passwords.
 </p>
+
+<p align="left">
+  <a href="https://github.com/Nixantsingh943/Netflix_clone">
+    <img width="280" alt="Netflix_clone" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Netflix_clone&theme=tokyonight" />
+  </a>  
+  <br>
+  🎬 **Netflix_clone** – A front-end clone of Netflix using HTML, CSS, and JavaScript.
+</p>
+
+<p align="left">
+  <a href="https://github.com/Nixantsingh943/Java_Chat_manager">
+    <img width="280" alt="Java_Chat_manager" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Java_Chat_manager&theme=tokyonight" />
+  </a>  
+  <br>
+  💬 **Java Chat Manager** – A Java-based chat application with real-time messaging.
+</p>
+
+<p align="left">
+  <a href="https://github.com/Nixantsingh943/simple_Currency-convertor">
+    <img width="280" alt="simple_Currency-convertor" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=simple_Currency-convertor&theme=tokyonight" />
+  </a>  
+  <br>
+  💱 **Currency Converter** – A JavaScript project to quickly convert between different currencies.
+</p>
+
+<p align="left">
+  <a href="https://github.com/Nixantsingh943/OpenSourceDSC">
+    <img width="280" alt="OpenSourceDSC" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=OpenSourceDSC&theme=tokyonight" />
+  </a>  
+  <br>
+  🌍 **OpenSourceDSC** – Contributions to open-source projects from DSC community.
+</p>
+
 
 ---
 
