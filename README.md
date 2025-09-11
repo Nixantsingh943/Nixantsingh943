@@ -65,6 +65,9 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
   <a href="https://github.com/Nixantsingh943/PY-Text_Editor">
     <img width="250" alt="PY-Text_Editor" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=PY-Text_Editor&theme=tokyonight" />
   </a>
+  <a href="https://github.com/Nixantsingh943/Spotify_login">
+    <img width="250" alt="Spotify_login" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Spotify_login&theme=tokyonight" />
+  </a>
   
 </p>
 
