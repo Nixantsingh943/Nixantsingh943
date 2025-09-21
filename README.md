@@ -66,10 +66,7 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
   <a href="https://github.com/Nixantsingh943/WeatherApp">
     <img width="250" alt="WeatherApp" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=WeatherApp&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Nixantsingh943/todo_app">
-    <img width="250" alt="todo_app" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=todo_app&theme=tokyonight" />
-  </a>
-  
+   
    
   
   
