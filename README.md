@@ -47,10 +47,7 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
   <a href="https://github.com/Nixantsingh943/pyPassSafe">
     <img width="250" alt="pyPassSafe" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=pyPassSafe&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Nixantsingh943/Netflix_clone">
-    <img width="250" alt="Netflix_clone" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Netflix_clone&theme=tokyonight" />
-  </a>
-  
+
   <a href="https://github.com/Nixantsingh943/Java_Chat_manager">
     <img width="250" alt="Java_Chat_manager" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Java_Chat_manager&theme=tokyonight" />
   </a>
@@ -66,9 +63,13 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
   <a href="https://github.com/Nixantsingh943/PY-Text_Editor">
     <img width="250" alt="PY-Text_Editor" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=PY-Text_Editor&theme=tokyonight" />
   </a>
-  <a href="https://github.com/Nixantsingh943/Spotify_login">
-    <img width="250" alt="Spotify_login" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Spotify_login&theme=tokyonight" />
+  <a href="https://github.com/Nixantsingh943/WeatherApp">
+    <img width="250" alt="WeatherApp" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=WeatherApp&theme=tokyonight" />
   </a>
+  <a href="https://github.com/Nixantsingh943/todo_app">
+    <img width="250" alt="todo_app" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=todo_app&theme=tokyonight" />
+  </a>
+  
    
   
   
