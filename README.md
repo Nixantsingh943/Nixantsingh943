@@ -69,7 +69,7 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
 
   ---
   ### Problem Solving
-  #### 🥋 Codewars
+  #### 🥋 Codewars Stats
   [![Codewars](https://www.codewars.com/users/Nixant_singh/badges/large)](https://www.codewars.com/users/Nixant_singh)
 
   #### 🧠 LeetCode Stats  
