@@ -66,6 +66,9 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
   <a href="https://github.com/Nixantsingh943/WeatherApp">
     <img width="250" alt="WeatherApp" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=WeatherApp&theme=tokyonight" />
   </a>
+  
+  ![Codewars](https://www.codewars.com/users/<Nixant_singh>/badges/large)
+
    
    
   
