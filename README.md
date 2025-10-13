@@ -71,11 +71,14 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
   ### Problem Solving
   #### 🥋 Codewars Stats
   [![Codewars](https://www.codewars.com/users/Nixant_singh/badges/large)](https://www.codewars.com/users/Nixant_singh)
-  ![Codewars](https://github.r2v.ch/codewars?user=<Nixant_singh>&theme=gradient)
+  [Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nixant_singh&theme=github_dark)]          
 
 
   #### 🧠 LeetCode Stats  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/nishu_943?theme=dark&font=Baloo%20Chettan%202&ext=heatmap)](https://leetcode.com/nishu_943/)
+
+#### Code Chief
+[![CodeChef](https://img.shields.io/badge/CodeChef-nixant943-brown?logo=codechef&logoColor=white)](https://www.codechef.com/users/nixant943) 
 
 
 
