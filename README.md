@@ -69,16 +69,17 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
   <a href="https://github.com/Nixantsingh943/mini_projects">
     <img width="250" alt="mini_projects" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=mini_projects&theme=tokyonight" />
   </a>
-
-  ---
+</p>
+   <!-- ---
   ### Problem Solving
   #### 🥋 Codewars Stats
-  [![Codewars](https://img.shields.io/badge/Codewars-Nixant_singh-red?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Nixant_singh)
+  [![Codewars](https://img.shields.io/badge/Codewars-Nixant_singh-red?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Nixant_singh) 
             
   #### 🧠 LeetCode Stats  
 [![LeetCode](https://img.shields.io/badge/LeetCode-nishu_943-yellow?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/nishu_943/)
 #### 🧩 Code Chef Stats
-[![CodeChef](https://img.shields.io/badge/CodeChef-nixant943-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nixant943)
+[![CodeChef](https://img.shields.io/badge/CodeChef-nixant943-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nixant943) 
+-->
 
 
 
@@ -93,7 +94,7 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
    
   
   
-</p>
+
 
 
 
