@@ -11,7 +11,7 @@
 I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Development and Data Structures and Algorithms. Proficient in java, Python, JavaScript, and frameworks like ReactJS and Node.js, I'm passionate about leveraging my technical skills to solve complex problems and build innovative solutions.
 - I'm a passionate developer with a love for building things that make life easier. I'm always learning something new!
 
--  Currently growing: `{ skills: ["WebDev", "Web3"] }`
+-  Currently growing: `{ skills: ["DSA", "Web3"] }`
 - How to reach me: [Email-(niahuthakurnishant943@gmail.com)]
 - fact: I am a person who forgets things very quickly.
 - [View My Resume](https://yourdomain.com/your-resume.pdf)
