@@ -69,6 +69,9 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
   <a href="https://github.com/Nixantsingh943/mini_projects">
     <img width="250" alt="mini_projects" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=mini_projects&theme=tokyonight" />
   </a>
+  <a href="https://github.com/Nixantsingh943/attendence_app-">
+    <img width="250" alt="attendence_app-" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=attendence_app-&theme=tokyonight" />
+  </a>
 </p>
 
   ### Problem Solving
