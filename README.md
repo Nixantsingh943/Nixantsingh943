@@ -21,7 +21,7 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
 ### 🛠️ My Skills
 
 <div>
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,expressjs,python,java,sqlite,mongodb,git,github,solidity,flutter, dart ,gitlab,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,expressjs,python,java,sqlite,mongodb,git,github,solidity,flutter,dart,gitlab,&perline=8" />
 </div>
 
 ---
