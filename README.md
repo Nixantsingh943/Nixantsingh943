@@ -1,4 +1,4 @@
-## Hi there..Nice to see you 👋
+ Hi there..Nice to see you 👋
 
 <h1 align="center"> 👋I'm Nishant Singh </h1>
 <p align="center">
@@ -8,12 +8,16 @@
 ---
 
 ### ⚡ A Little About Me 
-I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Development and Data Structures and Algorithms. Proficient in java, Python, JavaScript, and frameworks like ReactJS and Node.js, I'm passionate about leveraging my technical skills to solve complex problems and build innovative solutions.
+I am Nishant Singh, a student at NIT Hamirpur. I specialize in Full-Stack Development, App Development, and Data Structures & Algorithms. I have strong experience building web and mobile applications, and I enjoy turning ideas into scalable, real-world products.
+
+I am proficient in Java, Python, JavaScript, and mobile technologies like Flutter (Dart) and Kotlin, along with frameworks such as ReactJS, Node.js, and Express.js. I'm passionate about solving complex problems and continuously improving my skill set.
 - I'm a passionate developer with a love for building things that make life easier. I'm always learning something new!
 
--  Currently growing: `{ skills: ["DSA", "Web3"] }`
+-  Currently growing: `{ skills: ["DSA", "Web3" ,"Advanced Flutter"] }`
 - How to reach me: [Email-(niahuthakurnishant943@gmail.com)]
-- fact: I am a person who forgets things very quickly.
+- Funfact: I forget things very quickly, so I write clean code and good comments 😄.
+
+📄 View My Resume
 - [View My Resume](https://yourdomain.com/your-resume.pdf)
 
 ---
@@ -30,7 +34,7 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
 
 | 🔥 Streakin’ | 📊 Stats | 🧠 Languages |
 |--------------|-----------|-------------|
-| ![GitHub Streak](https://streak-stats.demolab.com?user=Nixantsingh943&theme=tokyonight&hide_border=true) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nixantsingh943&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixantsingh943&layout=compact&theme=radical) |
+| ![Streak](https://streak-stats.demolab.com?user=Nixantsingh943&theme=radical) | ![Stats](https://github-readme-stats.vercel.app/api?username=Nixantsingh943&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixantsingh943&layout=compact&theme=radical) |
 
 
 ### Connect with me..
@@ -41,38 +45,7 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
 
 ---
 
-###  My Projects
 
-<p align="center">
-  <a href="https://github.com/Nixantsingh943/pyPassSafe">
-    <img width="250" alt="pyPassSafe" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=pyPassSafe&theme=tokyonight" />
-  </a>
-
-  <a href="https://github.com/Nixantsingh943/Java_Chat_manager">
-    <img width="250" alt="Java_Chat_manager" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=Java_Chat_manager&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Nixantsingh943/simple_Currency-convertor">
-    <img width="250" alt="simple_Currency-convertor" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=simple_Currency-convertor&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Nixantsingh943/OpenSourceDSC">
-    <img width="250" alt="OpenSourceDSC" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=OpenSourceDSC&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Nixantsingh943/ExpenseTracker">
-    <img width="250" alt="ExpenseTracker" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=ExpenseTracker&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Nixantsingh943/PY-Text_Editor">
-    <img width="250" alt="PY-Text_Editor" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=PY-Text_Editor&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Nixantsingh943/WeatherApp">
-    <img width="250" alt="WeatherApp" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=WeatherApp&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Nixantsingh943/mini_projects">
-    <img width="250" alt="mini_projects" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=mini_projects&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Nixantsingh943/attendence_app-">
-    <img width="250" alt="attendence_app-" src="https://github-readme-stats.vercel.app/api/pin/?username=Nixantsingh943&repo=attendence_app-&theme=tokyonight" />
-  </a>
-</p>
 <!--
 ### Problem Solving
 #### 🥋 Codewars Stats
@@ -85,7 +58,6 @@ I am Nishant singh ,student at NIT hamipur . I specialize in Full-Stack Developm
 
 
 ---
-
 
 ### 🧃 Final Thoughts
 
