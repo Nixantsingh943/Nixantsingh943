@@ -25,7 +25,7 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 ### 🛠️ My Skills
 
 <div>
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,expressjs,python,java,sqlite,mongodb,git,github,solidity,flutter,dart,gitlab,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,expressjs,python,java,sqlite,mongodb,git,github,solidity,flutter,dart,gitlab,kotlin,&perline=8" />
 </div>
 
 ---
