@@ -21,8 +21,6 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 - How to reach me: [Email-(niahuthakurnishant943@gmail.com)]
 - Funfact: I forget things very quickly, so I write clean code and good comments 😄.
 
-📄 View My Resume
-- [View My Resume](https://yourdomain.com/your-resume.pdf)
 - [![Portfolio](https://img.shields.io/badge/My%20Portfolio-Website-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nishant-portfolio-gezh.vercel.app)
 
 ---
