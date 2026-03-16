@@ -42,11 +42,15 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 
 ### Connect with me..
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Nixantsingh943)
+## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishant-singh-586315325/)
-[![Hashnode](https://img.shields.io/badge/Read%20My%20Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@nixant943)
+[![GitHub](https://img.shields.io/badge/GitHub-Nixantsingh943-black?style=for-the-badge&logo=github)](https://github.com/Nixantsingh943)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishant%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishant-singh-586315325/)
+
+[![Hashnode](https://img.shields.io/badge/Hashnode-Tech%20Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@nixant943)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:niahuthakurnishant943@gmail.com)
 ---
 
 
