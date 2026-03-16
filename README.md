@@ -2,6 +2,9 @@
 
 <h1 align="center"> 👋I'm Nishant Singh </h1>
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nixantsingh943&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+<p align="center">
   💻 Full-Stack Developer 
 </p>
 
@@ -25,7 +28,7 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 ### 🛠️ My Skills
 
 <div>
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,expressjs,python,java,sqlite,mongodb,git,github,solidity,flutter,dart,gitlab,kotlin,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,expressjs,python,java,sqlite,mongodb,git,github,solidity,flutter,dart,gitlab,kotlin,postman,&perline=8" />
 </div>
 
 ---
@@ -46,7 +49,7 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 ---
 
 
-<!---
+
 ### Problem Solving
 #### 🥋 Codewars Stats
 [![Codewars](https://img.shields.io/badge/Codewars-Nixant_singh-red?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Nixant_singh)
@@ -58,10 +61,31 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 
 #### 🧩 Code Chef Stats
 [![CodeChef](https://img.shields.io/badge/CodeChef-nixant943-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nixant943) 
---->
+
 
 
 ---
+---
+
+### 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nixantsingh943&theme=react-dark)
+
+
+---
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Nixantsingh943/Nixantsingh943/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+
+### 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nixantsingh943&theme=radical&no-frame=true&margin-w=10)]
+
+
 
 ### 🧃 Final Thoughts
 
