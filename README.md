@@ -9,8 +9,10 @@
 
 ---
 
-### ⚡ A Little About Me 
-I am Nishant Singh, a student at NIT Hamirpur. I specialize in Full-Stack Development, App Development, and Data Structures & Algorithms. I have strong experience building web and mobile applications, and I enjoy turning ideas into scalable, real-world products.
+###  A Little About Me 
+I am Nishant Singh, a developer passionate about building scalable digital products and solving complex engineering problems. Currently studying at NIT Hamirpur, I focus on creating impactful software through full-stack development, mobile applications, and emerging Web3 technologies.
+
+I enjoy transforming ideas into production-ready applications, combining strong problem-solving skills, system design thinking, and modern development practices.
 
 I am proficient in Java, Python, JavaScript, and mobile technologies like Flutter (Dart) and Kotlin, along with frameworks such as ReactJS, Node.js, and Express.js. I'm passionate about solving complex problems and continuously improving my skill set.
 - I'm a passionate developer with a love for building things that make life easier. I'm always learning something new!
