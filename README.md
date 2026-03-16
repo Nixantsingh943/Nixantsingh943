@@ -21,6 +21,7 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 
 📄 View My Resume
 - [View My Resume](https://yourdomain.com/your-resume.pdf)
+- [![Portfolio](https://img.shields.io/badge/My%20Portfolio-Website-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nishant-portfolio-gezh.vercel.app)
 
 ---
 
@@ -44,6 +45,7 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/Nixantsingh943)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nishant-singh-586315325/)
+[![Hashnode](https://img.shields.io/badge/Read%20My%20Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@nixant943)
 
 ---
 
@@ -63,7 +65,7 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 
 
 
----
+
 ---
 
 ### 📈 Contribution Graph
@@ -73,11 +75,6 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 
 ---
 
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Nixantsingh943/Nixantsingh943/blob/output/github-contribution-grid-snake.svg)
-
----
 
 
 
