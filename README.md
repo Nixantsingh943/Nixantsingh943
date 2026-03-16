@@ -3,10 +3,9 @@
 <h1 align="center"> 👋I'm Nishant Singh </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nixantsingh943&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
 <p align="center">
-  💻 Full-Stack Developer 
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Mobile+App+Developer;Tech+Blogger;Web3+Developer;DSA+Enthusiast" />
+
 
 ---
 
@@ -81,9 +80,6 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 ---
 
 
-### 🏆 GitHub Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nixantsingh943&theme=radical&no-frame=true&margin-w=10)]
 
 
 
