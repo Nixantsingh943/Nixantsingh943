@@ -25,11 +25,17 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 
 ---
 
-## 🛠️ Skills
+<h2 align="center">🛠️ Skills</h2>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,express,python,java,mongodb,sqlite,git,github,flutter,dart,kotlin,solidity,etherium,solana,metamsk, graphQL ,postman&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,express,python,java,mongodb,sqlite,git,github,gitlab,flutter,dart,kotlin,solidity,graphql,firebase,postman&perline=8" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white" />
+<img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
 
 </div>
 ---
