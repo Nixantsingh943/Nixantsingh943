@@ -11,17 +11,16 @@
 
 ###  A Little About Me 
 I am Nishant Singh, a developer passionate about building scalable digital products and solving complex engineering problems. Currently studying at NIT Hamirpur, I focus on creating impactful software through full-stack development, mobile applications, and emerging Web3 technologies.
-
 I enjoy transforming ideas into production-ready applications, combining strong problem-solving skills, system design thinking, and modern development practices.
+I am proficient in Java, Python, and JavaScript, with strong experience in mobile development using Flutter (Dart) and Kotlin. I work extensively with modern frameworks such as ReactJS, Node.js, and Express.js, and have hands-on experience with GraphQL for efficient API design. I am also actively exploring Web3 technologies, including Ethereum, smart contract development, and integrations using tools like MetaMask. I am passionate about solving complex problems and continuously improving my skill set.
 
-I am proficient in Java, Python, JavaScript, and mobile technologies like Flutter (Dart) and Kotlin, along with frameworks such as ReactJS, Node.js, and Express.js. I'm passionate about solving complex problems and continuously improving my skill set.
+
 - I'm a passionate developer with a love for building things that make life easier. I'm always learning something new!
-
 -  Currently growing: `{ skills: ["DSA", "Web3" ,"Advanced Flutter"] }`
 - How to reach me: [Email-(niahuthakurnishant943@gmail.com)]
 - Funfact: I forget things very quickly, so I write clean code and good comments 😄.
 
-- [![Portfolio](https://img.shields.io/badge/My%20Portfolio-Website-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nishant-portfolio-gezh.vercel.app)
+  [![Portfolio](https://img.shields.io/badge/My%20Portfolio-Website-orange?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nishant-portfolio-gezh.vercel.app)
 
 ---
 
@@ -38,6 +37,7 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
 
 </div>
+
 ---
 
 ### Nishant's GitHub Stats
@@ -46,7 +46,7 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 |--------------|-----------|-------------|
 | ![Streak](https://streak-stats.demolab.com?user=Nixantsingh943&theme=radical) | ![Stats](https://github-readme-stats.vercel.app/api?username=Nixantsingh943&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixantsingh943&layout=compact&theme=radical) |
 
-
+---
 
 ## 🔗 Connect With Me
 
