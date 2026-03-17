@@ -29,7 +29,7 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,express,python,java,mongodb,sqlite,git,github,flutter,dart,kotlin,solidity,postman&perline=8" />
+<img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,express,python,java,mongodb,sqlite,git,github,flutter,dart,kotlin,solidity,etherium,solana,metamsk, graphQL ,postman&perline=8" />
 
 </div>
 ---
