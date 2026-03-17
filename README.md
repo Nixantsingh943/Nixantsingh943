@@ -25,12 +25,13 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 
 ---
 
-### 🛠️ My Skills
+## 🛠️ Skills
 
-<div>
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,expressjs,python,java,sqlite,mongodb,git,github,solidity,flutter,dart,gitlab,kotlin,postman,&perline=8" />
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,js,react,html,css,tailwind,nodejs,express,python,java,mongodb,sqlite,git,github,flutter,dart,kotlin,solidity,postman&perline=8" />
+
 </div>
-
 ---
 
 ### Nishant's GitHub Stats
@@ -40,7 +41,6 @@ I am proficient in Java, Python, JavaScript, and mobile technologies like Flutte
 | ![Streak](https://streak-stats.demolab.com?user=Nixantsingh943&theme=radical) | ![Stats](https://github-readme-stats.vercel.app/api?username=Nixantsingh943&show_icons=true&theme=radical) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixantsingh943&layout=compact&theme=radical) |
 
 
-### Connect with me..
 
 ## 🔗 Connect With Me
 
