@@ -61,7 +61,7 @@ I am proficient in Java, Python, and JavaScript, with strong experience in mobil
 
 
 
-### Problem Solving
+<!-- ### Problem Solving
 #### 🥋 Codewars Stats
 [![Codewars](https://img.shields.io/badge/Codewars-Nixant_singh-red?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Nixant_singh)
  #### 🧠 LeetCode Stats  
@@ -72,6 +72,7 @@ I am proficient in Java, Python, and JavaScript, with strong experience in mobil
 
 #### 🧩 Code Chef Stats
 [![CodeChef](https://img.shields.io/badge/CodeChef-nixant943-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/nixant943) 
+-->
 
 
 
